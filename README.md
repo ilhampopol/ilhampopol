@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on wholesale clothing sales company
 - 🌱 I’m currently studying <a href='https://unindra.ac.id/'>@Indraprasta PGRI University</a> Majoring Informatics Engineering
-- 📫 How to reach me: <a href='mailto:ilhampopol@gmail.com'>ilhampopol@gmail.com</a> or <a href=''></a>
+- 📫 How to reach me: <a href='mailto:ilhampopol@gmail.com'>ilhampopol@gmail.com</a> or <a href='https://www.linkedin.com/in/ilhampopol/'></a>
