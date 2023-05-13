@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ilham Muharam Rivai
 
-I am a PHP developer specializing in SQL Server database management. With expertise in PHP and frameworks like Laravel, I build web applications with robust backend functionality. Proficient in SQL, I design and optimize databases for reliability and security. Passionate about staying updated with the latest advancements, I enjoy tackling challenging projects that leverage PHP and SQL Server to deliver scalable and secure web applications.
+I am a PHP developer specializing in SQL Server database management. With expertise in PHP and frameworks like Codeigniter & Laravel, I build web applications with robust backend functionality. Proficient in SQL, I design and optimize databases for reliability and security. Passionate about staying updated with the latest advancements, I enjoy tackling challenging projects that leverage PHP and SQL Server to deliver scalable and secure web applications.
 
 
 - 🔭 I’m currently working on wholesale clothing sales company
