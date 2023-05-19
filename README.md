@@ -4,8 +4,8 @@ I am a PHP developer specializing in SQL Server database management. With expert
 
 
 - 🔭 I’m currently working on Indogarment (Retail & Wholesale Clothing Company)
-- 🌱 I’m currently studying <a href='https://unindra.ac.id/'  target="_blank">@Indraprasta PGRI University</a> Majoring Informatics Engineering
-- 📫 How to reach me: <a href='mailto:ilhampopol@gmail.com'>ilhampopol@gmail.com</a> or <a href='https://www.linkedin.com/in/ilhampopol/'  target="_blank">LinkedIn</a>
+- 🌱 I’m currently studying <a href='https://unindra.ac.id/' target="_blank">@Indraprasta PGRI University</a> Majoring Informatics Engineering
+- 📫 How to reach me: <a href='mailto:ilhampopol@gmail.com'>ilhampopol@gmail.com</a> or <a href='https://www.linkedin.com/in/ilhampopol/' target="_blank">LinkedIn</a>
 
 
 ### Github Statistic
@@ -17,6 +17,6 @@ I am a PHP developer specializing in SQL Server database management. With expert
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/ilhampopol/"  target="_blank">LinkedIn</a>
+- <a href="https://linkedin.com/in/ilhampopol/" target="_blank">LinkedIn</a>
 - ilhampopol@gmail.com
 - 💬 Discord : Poporu#1425
