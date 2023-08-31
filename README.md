@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Ilham Muharam Rivai
 
-I am a PHP developer specializing in SQL Server database management. With expertise in PHP and frameworks like Codeigniter & Laravel, I build web applications with robust backend functionality. Proficient in SQL, I design and optimize databases for reliability and security. Passionate about staying updated with the latest advancements, I enjoy tackling challenging projects that leverage PHP and SQL Server to deliver scalable and secure web applications.
+I am a Web Developer specializing in PHP. With expertise in frameworks Codeigniter 3 & 4, I build web applications with robust backend functionality. Proficient in SQL, I design and optimize databases for reliability and security. Passionate about staying updated with the latest advancements, I enjoy tackling challenging projects that leverage PHP and Javascript to deliver scalable and secure web applications.
 
 
-- 🔭 I’m currently working on Indogarment (Retail & Wholesale Clothing Company)
+- 🔭 I’m currently working on Indogarment (Retail & Wholesale Fashion Company)
 - 🌱 I’m currently studying <a href='https://unindra.ac.id/' target="_blank">@Indraprasta PGRI University</a> Majoring Informatics Engineering
 - 📫 How to reach me: <a href='mailto:ilhampopol@gmail.com'>ilhampopol@gmail.com</a> or <a href='https://www.linkedin.com/in/ilhampopol/' target="_blank">LinkedIn</a>
 
